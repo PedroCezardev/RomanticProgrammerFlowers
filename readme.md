@@ -1,7 +1,7 @@
 # Flores de um programador romântico
 
-```js Nesse projeto aprenseta-se uma página HTML com um buquê de flores bem colorido e animado, clássico de um programador romântico que deseja surprender e presentar a sua amada.
-```
+ Nesse projeto aprenseta-se uma página HTML com um buquê de flores bem colorido e animado, clássico de um programador romântico que deseja surprender e presentar a sua amada.
+
 
 # Link 
 Acesse o site do projeto:
